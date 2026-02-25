@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 import os
 
 from dotenv import find_dotenv, load_dotenv

@@ -1,5 +1,4 @@
 # Secrets — NEVER commit the real .env
-.env
 
 # Python virtual environment
 venv/
@@ -11,7 +10,8 @@ __pycache__/
 *.pyo
 
 # IDE / OS
-.vscode/
 .idea/
 *.DS_Store
 Thumbs.db
+config.bat
+node_modules
